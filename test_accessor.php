@@ -2,6 +2,7 @@
 /**
  * Tests for our Accessor
  */
+require './Accessor.php';
 
 class Person extends Accessor
 {
